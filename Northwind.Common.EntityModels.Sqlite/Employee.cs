@@ -11,12 +11,14 @@ namespace Packt.Shared;
 public partial class Employee
 {
     [Key]
-    public long EmployeeId { get; set; }
+    public int EmployeeId { get; set; }
 
+    [Required]
     [Column(TypeName = "nvarchar (20)")]
     [StringLength(20)]
     public string LastName { get; set; } = null!;
 
+    [Required]
     [Column(TypeName = "nvarchar (10)")]
     [StringLength(10)]
     public string FirstName { get; set; } = null!;
@@ -30,17 +32,17 @@ public partial class Employee
     public string? TitleOfCourtesy { get; set; }
 
     [Column(TypeName = "datetime")]
-    public byte[]? BirthDate { get; set; }
+    public DateTime? BirthDate { get; set; }
 
     [Column(TypeName = "datetime")]
-    public byte[]? HireDate { get; set; }
+    public DateTime? HireDate { get; set; }
 
     [Column(TypeName = "nvarchar (60)")]
     [StringLength(60)]
     public string? Address { get; set; }
 
     [Column(TypeName = "nvarchar (15)")]
-   [StringLength(15)]
+    [StringLength(15)]
     public string? City { get; set; }
 
     [Column(TypeName = "nvarchar (15)")]

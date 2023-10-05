@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SZUmzh7LQt6cC/XuknWzfSlnEZ4e6Cp3uOo4jmfjP2Of354d9aWa9rtqKG9eHlh86kQgKMuPQC70czXnqdpnaQ==",
+  "dgSpecHash": "euKhL4L0ZuTS/YbvlH2TYQIOn4ODWEYeQ2BL2LxKhuuJ7YairRCS3EurNTgQVqZcU0cioc698tu3Z+/tEDaFhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+  "projectFilePath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxaj\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\maxaj\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
