@@ -7,17 +7,8 @@
       "sslPort": 44353
     }
   },
-  "profiles": {
-    "http": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "applicationUrl": "http://localhost:5102",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
-    "https": {
+   "profiles": {
+    "NorthWind.Web": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
