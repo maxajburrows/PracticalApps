@@ -1158,11 +1158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
+      "projectUniqueName": "C:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
       "projectName": "Northwind.Common.DataContext.Sqlite",
-      "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
+      "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
       "packagesPath": "C:\\Users\\maxaj\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\obj\\",
+      "outputPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1177,8 +1177,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
-              "projectPath": "c:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj"
+            "C:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
+              "projectPath": "C:\\Users\\maxaj\\OneDrive\\Desktop\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj"
             }
           }
         }
