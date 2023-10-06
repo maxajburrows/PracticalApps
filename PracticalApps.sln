@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.DataContex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Web", "Northwind.Web\Northwind.Web.csproj", "{073DBB2E-EDB4-4750-B300-C59DF340D6BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first-react-app", "first-react-app\first-react-app.csproj", "{7985A2C0-21EB-47CF-9006-5744FC3D85FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{073DBB2E-EDB4-4750-B300-C59DF340D6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{073DBB2E-EDB4-4750-B300-C59DF340D6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{073DBB2E-EDB4-4750-B300-C59DF340D6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7985A2C0-21EB-47CF-9006-5744FC3D85FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7985A2C0-21EB-47CF-9006-5744FC3D85FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7985A2C0-21EB-47CF-9006-5744FC3D85FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7985A2C0-21EB-47CF-9006-5744FC3D85FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
